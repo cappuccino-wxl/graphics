@@ -12,7 +12,7 @@
 6. 使用了体素软件 MagicaVoxel 来绘制 3D 物体
 
 
-![场景截图](https://github.com/cappuccino-wxl/graphics/assets/89365903/26576f1e-9a5f-47e0-9e1b-3059511208c0){:height="50%" width="50%"}
+<img src="[images/B站宣传.png](https://github.com/cappuccino-wxl/graphics/assets/89365903/26576f1e-9a5f-47e0-9e1b-3059511208c0)" width="30%">
 
 
 ![image](https://github.com/cappuccino-wxl/graphics/assets/89365903/9949dd68-6d00-4687-b647-b6433f39d743)
