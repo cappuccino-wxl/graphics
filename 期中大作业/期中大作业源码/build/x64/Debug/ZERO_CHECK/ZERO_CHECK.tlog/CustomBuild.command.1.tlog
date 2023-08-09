@@ -1,0 +1,10 @@
+^E:\课程文件\计算机图形学\期中大作业\期中大作业_留空代码\BUILD\CMAKEFILES\0A962E02B44FF9E60C52AED61186DD44\GENERATE.STAMP.RULE
+setlocal
+D:\python\learning\venv\Lib\site-packages\cmake\data\bin\cmake.exe -SE:/课程文件/计算机图形学/期中大作业/期中大作业_留空代码 -BE:/课程文件/计算机图形学/期中大作业/期中大作业_留空代码/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/课程文件/计算机图形学/期中大作业/期中大作业_留空代码/build/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
